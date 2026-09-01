@@ -1,1 +1,1 @@
-const CACHE='opus-cfo-dossiers-v1';self.addEventListener('install',e=>self.skipWaiting());self.addEventListener('activate',e=>self.clients.claim());
+const CACHE='opus-cfo-v1-4-apercu';self.addEventListener('install',e=>self.skipWaiting());self.addEventListener('activate',e=>self.clients.claim());
